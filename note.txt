@@ -1,0 +1,25 @@
+TODO
+
+user story X
+install package.json dependencies, be & fe X
+folder be & fe X
+html, id, class X
+function, ...
+code
+
+https://mui.com/material-ui/customization/dark-mode/
+
+https://mui.com/material-ui/customization/theming/
+    .palette - color
+    .typography - text
+    .spacing - line height, margin, padding...
+    .breakpoints - responsive
+    .zIndex - layer
+    .transitions - 
+    .components -
+
+demo
+https://codercomm-dot-cs-platform-306304.et.r.appspot.com/
+
+email: thuphan273@gmail.com
+pw: 123456789
