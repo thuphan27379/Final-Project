@@ -1,11 +1,13 @@
 TODO
 
 user story X
-install package.json dependencies, be & fe X
 folder be & fe X
-html, id, class X
-function, ...
+install package.json dependencies, be & fe X
+html, css, id, class X
+functions, components...
+chinh sua lai bai codercomm
 code
+
 
 https://mui.com/material-ui/customization/dark-mode/
 

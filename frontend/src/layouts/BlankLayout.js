@@ -4,7 +4,7 @@ import React from "react";
 
 import Logo from "../components/Logo";
 
-//
+// delete blank layour
 function BlankLayout() {
   return (
     <Stack minHeight="100vh" justifyContent="center" alignItems="center">
